@@ -1,0 +1,3 @@
+interface ApproachStrategy {
+  void approachPassengers();
+}
